@@ -10,7 +10,7 @@ pipeline {
 
         stage('Checkout Code') {
             steps {
-                git 'git 'https://github.com/ravindrandheepika/myapp.git'
+                git 'https://github.com/ravindrandheepika/myapp.git'
             }
         }
 
