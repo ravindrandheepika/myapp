@@ -17,12 +17,13 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>com.example.Main</mainClass>
+                        <mainClass>App</mainClass>
                     </manifest>
                 </archive>
             </configuration>
         </plugin>
     </plugins>
     </build>
+
 
 </project>
